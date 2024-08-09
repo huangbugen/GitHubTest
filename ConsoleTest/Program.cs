@@ -101,7 +101,7 @@
 // System.Console.WriteLine(res3);
 // System.Console.WriteLine(res4);
 
-object obj = "Hello, World";
+object obj = "Hello";
 if (obj is string str)
 {
     System.Console.WriteLine(str);
